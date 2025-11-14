@@ -2,7 +2,14 @@
 
 Uma aplicação web moderna e responsiva para gerenciar e controlar suas assinaturas mensais e anuais, ajudando a visualizar seus gastos recorrentes de forma clara e organizada.
 
-![Pré-visualização do App](https://i.imgur.com/your-image-url.png) <!-- Sugestão: adicione uma screenshot do app aqui -->
+## 🚀 Acessar a Aplicação
+
+A maneira mais fácil de usar o aplicativo é acessando o link abaixo. Não é necessário instalar nada!
+
+**[➡️ Acessar o App Ao Vivo](https://seu-usuario.github.io/controle-de-assinaturas/)** 
+*(Substitua pelo seu link do GitHub Pages após o deploy)*
+
+ <!-- Sugestão: adicione uma screenshot do app aqui -->
 
 ## ✨ Funcionalidades
 
@@ -15,16 +22,16 @@ Uma aplicação web moderna e responsiva para gerenciar e controlar suas assinat
 - **Design Responsivo:** A interface se adapta perfeitamente a desktops, tablets e dispositivos móveis.
 - **UX Aprimorada:** Inclui confirmação antes de excluir um item para evitar a perda acidental de dados.
 
-## 🚀 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **[React](https://react.dev/)**: Biblioteca JavaScript para construir interfaces de usuário.
 - **[TypeScript](https://www.typescriptlang.org/)**: Superset do JavaScript que adiciona tipagem estática.
 - **[Tailwind CSS](https://tailwindcss.com/)**: Framework CSS utility-first para um design rápido e customizável.
 - **Sem Build Step**: O projeto utiliza `import maps` e scripts via CDN, não necessitando de um processo de build complexo (Webpack, Vite, etc.) para ser executado.
 
-## 🏁 Como Executar Localmente
+## 🏁 Como Executar Localmente (Para Desenvolvedores)
 
-Como este projeto não requer um passo de compilação, executá-lo é muito simples.
+Se você deseja clonar o projeto para estudar o código ou fazer modificações:
 
 1.  **Clone o repositório:**
     ```bash
